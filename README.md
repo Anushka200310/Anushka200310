@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently enhancing my skills in Next.js and TypeScript.<br>💡 I'm always open to collaborating on interesting and innovative projects.<br>🔭 I’m currently working on Issue Quest, a project focused on managing GitHub issues using the MERN stack.
+🎓 Final-year Computer Science student.<br>💡✅ Ability to learn fast and adapt quickly.<br>🌱 Always learning and exploring new technologies.
 
 
 ## 🌐 Socials:
