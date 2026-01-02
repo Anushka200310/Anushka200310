@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science student.<br>💡✅ Ability to learn fast and adapt quickly.<br>🌱 Always learning and exploring new technologies.
+🎓 Final-year Computer Science student.<br>💡 Ability to learn fast and adapt quickly.<br>🌱 Always learning and exploring new technologies.
 
 
 ## 🌐 Socials:
